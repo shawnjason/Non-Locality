@@ -5,7 +5,8 @@ Machine-checked Lean 4 proofs for
 **"The Non-Locality of Extendability: An Impossibility Theorem for Bounded Information Systems, with Applications to Generative Sequential Systems"**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19687799.svg)](https://doi.org/10.5281/zenodo.19687799)
 
-Author
+## Author
+
 Shawn Kevin Jason — Independent Researcher, Las Vegas, NV
 ORCID: [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-9208-1556) [0009-0003-9208-1556](https://orcid.org/0009-0003-9208-1556)
 
